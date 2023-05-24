@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bnNQkHgavcyDm+KeIdLawQNAigH7YIYFk8mpTobUNuAdO6qlxElN7rn0UkGWlp05dOi85yYceNXvTXn6V9Z3bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barto\\OneDrive\\Pulpit\\DiceGameCzyszek\\DiceGame\\DiceGame\\DiceGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

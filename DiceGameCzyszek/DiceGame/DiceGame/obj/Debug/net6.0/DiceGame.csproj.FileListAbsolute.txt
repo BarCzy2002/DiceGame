@@ -1,0 +1,15 @@
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\bin\Debug\net6.0\DiceGame.exe
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\bin\Debug\net6.0\DiceGame.deps.json
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\bin\Debug\net6.0\DiceGame.runtimeconfig.json
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\bin\Debug\net6.0\DiceGame.dll
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\bin\Debug\net6.0\DiceGame.pdb
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.csproj.AssemblyReference.cache
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.AssemblyInfoInputs.cache
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.AssemblyInfo.cs
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.csproj.CoreCompileInputs.cache
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.dll
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\refint\DiceGame.dll
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.pdb
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\DiceGame.genruntimeconfig.cache
+C:\Users\barto\OneDrive\Pulpit\DiceGameCzyszek\DiceGame\DiceGame\obj\Debug\net6.0\ref\DiceGame.dll
